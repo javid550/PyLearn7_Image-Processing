@@ -17,10 +17,11 @@
 ### Batman :
 
 This : ![concentric](Batman/Bat.jpg) 
-To: ![concentric](Batman/batman.jpg)
+
+ To: ![concentric](Batman/batman.jpg)
 
 **Other outputs** saved as gif , for instance :
-- ![concentric](Noise/noise.gif)
+- Noise/noise.gif
 
 ### Installation guide for python files
 To execute this program you need to install a library
