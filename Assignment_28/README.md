@@ -29,7 +29,10 @@ Input : ![Screenshot](cat_face-detection/input.jpg)
 
 ### Face_filter :
 
-1 : 
+1 : ![Screenshot](face_filters/animal_filter.png)
+2 : ![Screenshot](face_filters/glasses&lips_filter.png)
+3 : ![Screenshot](face_filters/chessed_filter.png)
+4 : ![Screenshot](face_filters/mirror_filter.png)
 
 ### Installation guide for python files
 To execute this program you need to install a library
