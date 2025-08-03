@@ -35,7 +35,7 @@ Output : ![Output](cars_background/cars_output.jpg)
 
 Input : ![Output](photo_to_sketch/input.jpg) 
 
- Output : ![Outputt](photo_to_sketch/output.jng)
+ Output : ![Output](photo_to_sketch/output.jpg)
 
 ### Face_motphing :
 
