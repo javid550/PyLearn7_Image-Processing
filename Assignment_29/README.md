@@ -25,7 +25,7 @@
 
 ### Black_hole :
 
-Output : ![Screenshot](black_hole/result_black_hole.jpg)
+Output : ![Output](black_hole/result_black_hole.jpg)
 
 ### Cars_background :
 
@@ -33,31 +33,33 @@ Output : ![Output](cars_background/cars_output.jpg)
 
 ### Photo_to_sketch :
 
-Input : ![Screenshot](photo_to_sketch/input.jpg) 
+Input : ![Output](photo_to_sketch/input.jpg) 
 
- Output : ![Screenshot](photo_to_sketch/output.png)
+ Output : ![Outputt](photo_to_sketch/output.jng)
 
 ### Face_motphing :
 
-Input_1 : ![Screenshot](face_morphing/input_1.jpg)
-Input_2 : ![Screenshot](face_morphing/input_2.jpg)
+Input_1 : ![Output](face_morphing/input_1.jpg)
 
- Output : ![Screenshot](face_morphing/output.jpg)
+ Input_2 : ![Output](face_morphing/input_2.jpg)
+
+ Output : ![Output](face_morphing/output.jpg)
 
  ### Subtract_images :
 
-Input_1 : ![Screenshot](sabtract_images/input_1.jpeg)
-Input_2 : ![Screenshot](sabtract_images/input_2.jpeg)
+Input_1 : ![Output](sabtract_images/input_1.jpeg)
 
- Output : ![Screenshot](sabtract_images/sub_output.jpg)
+ Input_2 : ![Output](sabtract_images/input_2.jpeg)
+
+ Output : ![Output](sabtract_images/sub_output.jpg)
 
 ### Change_decoration :
 
-Input_1 : ![Screenshot](change_decoration/decoration_input.jpeg)
-Input_2 : ![Screenshot](change_decoration/floor_input.jpeg)
-Input_3 : ![Screenshot](change_decoration/mask_input.jpeg)
+Input_1 : ![Output](change_decoration/decoration_input.jpeg)
+Input_2 : ![output](change_decoration/floor_input.jpeg)
+Input_3 : ![Output](change_decoration/mask_input.jpeg)
 
- Output : ![Screenshot](change_decoration/output.jpg)
+ Output : ![Output](change_decoration/output.jpg)
 
 ### Installation guide for python files
 To execute this program you need to install a library
