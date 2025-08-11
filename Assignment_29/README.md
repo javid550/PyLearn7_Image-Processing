@@ -80,5 +80,5 @@ import cv2
 
 To run python files , open your *cmd* or *Terminal* and enter this command :
 ```
-python ( cat_face.py / football.py / filter.py )
+python ( black_hole.py / cars.py / decoration.py / morph.py / sketch.py / subtract.py )
 ```
