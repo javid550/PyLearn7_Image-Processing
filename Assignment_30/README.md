@@ -33,8 +33,10 @@ Input : ![Iutput](Rotate_images/input.jpg)
 Input : ![Input](Align_images/mrbean.jpeg)
 
  Output_1 : ![Output](Align_images/Figure_1.png)
-Output_2 : ![Output](Align_images/Figure_2.png)
-Output_3 : ![Output](Align_images/Figure_3.png)
+ 
+ Output_2 : ![Output](Align_images/Figure_2.png)
+ 
+ Output_3 : ![Output](Align_images/Figure_3.png)
 
 
 ### Installation guide for python files
