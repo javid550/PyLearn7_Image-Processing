@@ -17,19 +17,17 @@
 
 ### Herizontal&Vertical_edge_detection :
 
-Input : ![Iutput](Herizontal&Vertical_edge_detection/input.jpeg) 
+Input : ![Intput](Herizontal&Vertical_edge_detection/input.jpeg) 
 
  Output : ![Output](Herizontal&Vertical_edge_detection/output.png)
 
 ### Blurred : 
 
-Input : ![Iutput](Blurred/input.jpeg) 
+Input : ![Input](Blurred/input.jpeg) 
 
  Output : ![Output](Blurred/output.png)
  
 ### Histogram :
-
-Input : ![Input](Histogram/input.jpg)
 
  Output_plt.plot() : ![Output](Histogram/Figure_1.png)
  
@@ -39,25 +37,25 @@ Input : ![Input](Histogram/input.jpg)
 
 ### Edge_detection :
 
-Input : ![Iutput](Edge_detection/input_1.jpeg) 
+Input : ![Input](Edge_detection/input_1.jpeg) 
 
  Output : ![Output](Edge_detection/output_1.png)
 
-Input : ![Iutput](Edge_detection/input_2.jpeg) 
+Input : ![Input](Edge_detection/input_2.jpeg) 
 
  Output : ![Output](Edge_detection/output_2.png)
 
 ### Noise_reduction :
 
-Input : ![Iutput](Noise_reduction/input_1.jpeg) 
+Input : ![Input](Noise_reduction/input_1.jpeg) 
 
  Output : ![Output](Noise_reduction/output_1.png)
 
-Input : ![Iutput](Noise_reduction/input_2.jpeg) 
+Input : ![Input](Noise_reduction/input_2.jpeg) 
 
  Output : ![Output](Noise_reduction/output_2.png)
  
-Input : ![Iutput](Noise_reduction/input_3.jpeg) 
+Input : ![Input](Noise_reduction/input_3.jpeg) 
 
  Output : ![Output](Noise_reduction/output_3.png)
 
