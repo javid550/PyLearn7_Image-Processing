@@ -5,8 +5,8 @@
 ### What's there : 
 
 - There are five folder in this assignment with names of :
-  - *Herizontal&Vertical_edge_detection* , *Noise_reduction* , *Edge_detection* , *Histogram* , *Blurred*
-    - Herizontal&Vertical_edge_detection : Detecting , herizontal and vertical edges from image
+  - *Horizontal&Vertical_edge_detection* , *Noise_reduction* , *Edge_detection* , *Histogram* , *Blurred*
+    - Horizontal&Vertical_edge_detection : Detecting , horizontal and vertical edges from image
     - Noise_reduction : Get an image as input and reducing noises with three different kernels
     - Histogram : calculate and draw histogram for (0-255) , dark to light color of an image
     - Blurred : This file get an image as input and blurred the background
@@ -17,9 +17,9 @@
 
 ### Herizontal&Vertical_edge_detection :
 
-Input : ![Input](Herizontal&Vertical_edge_detection/input.jpeg) 
+Input : ![Input](Horizontal&Vertical_edge_detection/input.jpeg) 
 
- Output : ![Output](Herizontal&Vertical_edge_detection/output.png)
+ Output : ![Output](Horizontal&Vertical_edge_detection/output.png)
 
 ### Blurred : 
 
