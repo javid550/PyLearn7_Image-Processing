@@ -17,7 +17,7 @@
 
 ### Herizontal&Vertical_edge_detection :
 
-Input : ![Intput](Herizontal&Vertical_edge_detection/input.jpeg) 
+Input : ![Input](Herizontal&Vertical_edge_detection/input.jpeg) 
 
  Output : ![Output](Herizontal&Vertical_edge_detection/output.png)
 
