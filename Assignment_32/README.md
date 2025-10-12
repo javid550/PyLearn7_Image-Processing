@@ -27,9 +27,9 @@ For all these outputs :
   - Third image is output of cv2.createCLAHE
 
  #### Outputs : 
- ![Output](Histogram_Equalization/outputs/high_contrast_1)
- ![Output](Histogram_Equalization/outputs/high_contrast_2)
- ![Output](Histogram_Equalization/outputs/high_contrast_3)
+ ![Output](Histogram_Equalization/outputs/high_contrast_1.jpg)
+ ![Output](Histogram_Equalization/outputs/high_contrast_2.jpg)
+ ![Output](Histogram_Equalization/outputs/high_contrast_3.jpg)
 
 ### Average_filter : 
 
@@ -57,10 +57,16 @@ For all these outputs :
   - second one is output of five different kernels
 
  #### Output :
+
+ ##### Edge-detecting_filter
  ![Output](Convolution/outputs/edge-detecting_filter.jpg)
+ ##### Identity_filter
  ![Output](Convolution/outputs/identity-filter.jpg)
+ ##### Emboss_filter
  ![Output](Convolution/outputs/emboss-filter.jpg)
+ ##### My_filter
  ![Output](Convolution/outputs/my-filter.jpg)
+ ##### Sharping_filter
  ![Output](Convolution/outputs/sharping-filter.jpg)
 
 ### Installation guide for python files
