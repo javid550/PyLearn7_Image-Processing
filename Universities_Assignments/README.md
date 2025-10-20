@@ -24,7 +24,7 @@ Input:
  ![Input](filtering\face_stretch\input/man.jpg)
 
 Output:
- ![Output](Universities-Assignments/filtering/face_stretch/output/stretched-man.jpg)
+ ![Output](face_stretch/output/stretched-man.jpg)
 
 #### Wave_distortion :
 
@@ -44,7 +44,7 @@ Input:
  ![Input](Universities-Assignments/Affinity/resize_image/input/home.jpg)
 
 Outputs:
- ![Output](Universities-Assignments/Affinity/resize_image/outputs/resized-image1.jpg)
+ ![Output](Affinity/resize_image/outputs/resized-image1.jpg)
  ![Output](Universities-Assignments/Affinity/resize_image/outputs/resized-image2.jpg)
  ![Output](Universities-Assignments/Affinity/resize_image/outputs/resized-image3.jpg)
  ![Output](Universities-Assignments/Affinity/resize_image/outputs/resized-image4.jpg)
