@@ -38,10 +38,11 @@ Output:
 
 ### **Affinity**
 
-#### Resize : 
-
-Input:
+#### Input:
  ![Input](Affinity/resize_image/input/home.jpg)
+
+
+#### Resize : 
 
 Outputs:
  ![Output](Affinity/resize_image/outputs/resized-image1.jpg)
@@ -51,16 +52,10 @@ Outputs:
  
 #### Rotate : 
 
-Input:
- ![Input](Affinity/rotate_image/input/home.jpg) 
-
 Output:
  ![Output](Affinity/rotate_image/output/rotated_45.jpg)
  
 #### Tilt :
-
-Input:
- ![Input](Affinity/tilt_image/input/home.jpg) 
 
 Outputs :
  ![Output](Affinity/tilt_image/outputs/horizontal_tilted.jpg)
@@ -68,9 +63,6 @@ Outputs :
  
 ### Transfer :
 
-Input:
- ![Input](Affinity/transfer_image/input/home.jpg) 
- 
 Outputs :
  ![Output](Affinity/transfer_image/outputs/transfered-image1.jpg)
  ![Output](Affinity/transfer_image/outputs/transfered-image2.jpg)
