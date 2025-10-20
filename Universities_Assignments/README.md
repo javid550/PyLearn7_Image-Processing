@@ -32,7 +32,7 @@ Input:
  ![Input](Universities-Assignments/filtering/wave_distortion/input/Lena.jpg)
 
 Output:
- ![Output](Universities-Assignments/filtering/wave_distortion/output/waved_Lena.jpg)
+ ![Output](Universities-Assignments\filtering\wave_distortion\output/waved_Lena.jpg)
 
 
 
