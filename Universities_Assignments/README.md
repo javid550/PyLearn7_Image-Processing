@@ -29,10 +29,10 @@ Output:
 #### Wave_distortion :
 
 Input:
- ![Input](Universities-Assignments/filtering/wave_distortion/input/Lena.jpg)
+ ![Input](filtering/wave_distortion/input/Lena.jpg)
 
 Output:
- ![Output](Universities-Assignments\filtering\wave_distortion\output/waved_Lena.jpg)
+ ![Output](filtering\wave_distortion\output/waved_Lena.jpg)
 
 
 
@@ -41,40 +41,40 @@ Output:
 #### Resize : 
 
 Input:
- ![Input](Universities-Assignments/Affinity/resize_image/input/home.jpg)
+ ![Input](Affinity/resize_image/input/home.jpg)
 
 Outputs:
  ![Output](Affinity/resize_image/outputs/resized-image1.jpg)
- ![Output](Universities-Assignments/Affinity/resize_image/outputs/resized-image2.jpg)
- ![Output](Universities-Assignments/Affinity/resize_image/outputs/resized-image3.jpg)
- ![Output](Universities-Assignments/Affinity/resize_image/outputs/resized-image4.jpg)
+ ![Output](Affinity/resize_image/outputs/resized-image2.jpg)
+ ![Output](Affinity/resize_image/outputs/resized-image3.jpg)
+ ![Output](Affinity/resize_image/outputs/resized-image4.jpg)
  
 #### Rotate : 
 
 Input:
- ![Input](Universities-Assignments/Affinity/rotate_image/input/home.jpg) 
+ ![Input](Affinity/rotate_image/input/home.jpg) 
 
 Output:
- ![Output](Universities-Assignments/Affinity/rotate_image/output/rotated_45.jpg)
+ ![Output](Affinity/rotate_image/output/rotated_45.jpg)
  
 #### Tilt :
 
 Input:
- ![Input](Universities-Assignments/Affinity/tilt_image/input/home.jpg) 
+ ![Input](Affinity/tilt_image/input/home.jpg) 
 
 Outputs :
- ![Output](Universities-Assignments/Affinity/tilt_image/outputs/horizontal_tilted.jpg)
- ![Output](Universities-Assignments/Affinity/tilt_image/outputs/vertical_tilted.jpg)
+ ![Output](Affinity/tilt_image/outputs/horizontal_tilted.jpg)
+ ![Output](Affinity/tilt_image/outputs/vertical_tilted.jpg)
  
 ### Transfer :
 
 Input:
- ![Input](Universities-Assignments/Affinity/transfer_image/input/home.jpg) 
+ ![Input](transfer_image/input/home.jpg) 
  
 Outputs :
- ![Output](Universities-Assignments/Affinity/transfer_image/outputs/transfered-image1)
- ![Output](Universities-Assignments/Affinity/transfer_image/outputs/transfered-image2)
- ![Output](Universities-Assignments/Affinity/transfer_image/outputs/transfered-image3)
+ ![Output](Affinity/transfer_image/outputs/transfered-image1)
+ ![Output](Affinity/transfer_image/outputs/transfered-image2)
+ ![Output](Affinity/transfer_image/outputs/transfered-image3)
  
 
 ### Installation guide for python files
