@@ -32,7 +32,7 @@ Input:
  ![Input](filtering/wave_distortion/input/Lena.jpg)
 
 Output:
- ![Output](filtering/wave_distortion/output/waved_Lena.jpg)
+ ![Output](filtering/wave_distortion/output/waved-Lena.jpg)
 
 
 
@@ -72,9 +72,9 @@ Input:
  ![Input](Affinity/transfer_image/input/home.jpg) 
  
 Outputs :
- ![Output](Affinity/transfer_image/outputs/transfered-image1)
- ![Output](Affinity/transfer_image/outputs/transfered-image2)
- ![Output](Affinity/transfer_image/outputs/transfered-image3)
+ ![Output](Affinity/transfer_image/outputs/transfered-image1.jpg)
+ ![Output](Affinity/transfer_image/outputs/transfered-image2.jpg)
+ ![Output](Affinity/transfer_image/outputs/transfered-image3.jpg)
  
 
 ### Installation guide for python files
