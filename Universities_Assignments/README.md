@@ -21,7 +21,7 @@
 #### Face_Stretch :
 
 Input:
- ![Input](Universities_Assignments/filtering/face_stretch/input/man.jpg)
+ ![Input](Universities_Assignments\filtering\face_stretch\input/man.jpg)
 
 Output:
  ![Output](Universities-Assignments/filtering/face_stretch/output/stretched-man.jpg)
