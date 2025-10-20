@@ -21,10 +21,10 @@
 #### Face_Stretch :
 
 Input:
- ![Input](filtering\face_stretch\input/man.jpg)
+ ![Input](filtering/face_stretch/input/man.jpg)
 
 Output:
- ![Output](face_stretch/output/stretched-man.jpg)
+ ![Output](filtering/face_stretch/output/stretched-man.jpg)
 
 #### Wave_distortion :
 
@@ -32,7 +32,7 @@ Input:
  ![Input](filtering/wave_distortion/input/Lena.jpg)
 
 Output:
- ![Output](filtering\wave_distortion\output/waved_Lena.jpg)
+ ![Output](filtering/wave_distortion/output/waved_Lena.jpg)
 
 
 
@@ -69,7 +69,7 @@ Outputs :
 ### Transfer :
 
 Input:
- ![Input](transfer_image/input/home.jpg) 
+ ![Input](Affinity/transfer_image/input/home.jpg) 
  
 Outputs :
  ![Output](Affinity/transfer_image/outputs/transfered-image1)
